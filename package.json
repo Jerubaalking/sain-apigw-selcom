@@ -1,0 +1,21 @@
+{
+  "name": "sain-apigw-selcom",
+  "version": "1.0.12",
+  "description": "selcom api gateway intergration",
+  "main": "Selcom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selcom",
+    "gateway",
+    "payment",
+    "api"
+  ],
+  "author": "Gideon Sainyeye",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "date-and-time": "^3.1.1"
+  }
+}
