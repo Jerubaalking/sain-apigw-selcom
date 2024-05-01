@@ -1,6 +1,6 @@
 {
   "name": "sain-apigw-selcom",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "selcom api gateway intergration",
   "main": "Selcom.js",
   "scripts": {
